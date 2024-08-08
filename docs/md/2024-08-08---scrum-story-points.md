@@ -4,7 +4,7 @@
 _____________________
 
 
-![Relative Schätzung](../docs/screens/Obsidian-20240808125550.png)
+![Relative Schätzung](../screens/Obsidian-20240808125550.png)
 
 ![[Pasted image 20240808125550.png]]
 
